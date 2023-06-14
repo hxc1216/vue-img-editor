@@ -1,0 +1,149 @@
+{
+  "id": "4080826",
+  "name": "patrol-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26974785",
+      "name": "文字",
+      "font_class": "wenzi1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "12550614",
+      "name": "矩形",
+      "font_class": "juxing",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "755555",
+      "name": "清空",
+      "font_class": "delete",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7594403",
+      "name": "24gl-circle",
+      "font_class": "24gl-circle",
+      "unicode": "ea97",
+      "unicode_decimal": 60055
+    },
+    {
+      "icon_id": "8679533",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "11468518",
+      "name": "文字",
+      "font_class": "wenzi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13638677",
+      "name": "移动",
+      "font_class": "yidong",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "24550543",
+      "name": "撤回",
+      "font_class": "line-070",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "27402478",
+      "name": "小上箭头",
+      "font_class": "xiaoshangjiantou",
+      "unicode": "ee28",
+      "unicode_decimal": 60968
+    },
+    {
+      "icon_id": "15838552",
+      "name": "zoom-in",
+      "font_class": "zoom-in",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "15838554",
+      "name": "zoom-out",
+      "font_class": "zoom-out",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "7008941",
+      "name": "fullscreen",
+      "font_class": "fullscreen",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "7008972",
+      "name": "narrow",
+      "font_class": "narrow",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "9059896",
+      "name": "机构",
+      "font_class": "jigou1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "1267041",
+      "name": "BBD房子",
+      "font_class": "fangzi",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "5744737",
+      "name": "org",
+      "font_class": "jigou",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4488835",
+      "name": "专业名称",
+      "font_class": "zhuanyemingcheng",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "7712190",
+      "name": "班级",
+      "font_class": "banji",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "996525",
+      "name": "下一个",
+      "font_class": "ai09",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "996526",
+      "name": "上一个",
+      "font_class": "ai10",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    }
+  ]
+}
