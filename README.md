@@ -1,6 +1,8 @@
 ### 简述
 基于vue的图片编辑组件
-![image](https://github.com/hxc1216/vue-img-editor/assets/79068752/2b33cfcb-fecb-4f07-8edc-37c2089ec58e)
+
+![image](https://github.com/hxc1216/vue-img-editor/assets/79068752/71a37560-7c6a-4e3f-82e8-55919de0af3b)
+
 
 ### 示例
 ```sh
